@@ -1,6 +1,7 @@
 # AtliQ-Business-Insights
 I Completed this project as a part of my Data Analyst BootCamp which is organised by Codebasics
-Link To [Dashboard]
+
+Link To [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmE0NGU3ODktZGJmZS00MzUwLWFmMDAtOTA5YWQ3ZDQ2MWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # Company Overview
