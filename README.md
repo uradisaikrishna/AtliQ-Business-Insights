@@ -14,3 +14,11 @@ The Objective of this project is to answer the questions of stakeholder in terms
 
 # Data Model
 <img alt="Data modelling.PNG" src="https://github.com/uradisaikrishna/AtliQ-Business-Insights/blob/main/BI%20Resources/Data%20modelling.PNG?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
+
+# Importing Data
+
+As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+
+# Home Page
+https://github.com/uradisaikrishna/AtliQ-Business-Insights/blob/main/BI%20Resources/Home.PNG?raw=true
